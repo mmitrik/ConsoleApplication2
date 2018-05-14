@@ -12,5 +12,10 @@ namespace ConsoleApplication2
         {
             //edit
         }
+        
+        static void New(string[] args)
+        {
+            //new function
+        }
     }
 }

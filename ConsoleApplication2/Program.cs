@@ -15,7 +15,7 @@ namespace ConsoleApplication2
         
         static void New(string[] args)
         {
-            //new function
+            System.Console.WriteLine("Hello World");
         }
     }
 }

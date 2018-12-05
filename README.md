@@ -1,8 +1,4 @@
-# ConsoleApplication3
-This is my readMe
-Alphabet
-Bravo
-Charlie
+# ConsoleApplication2
 
 Test subscribe
 

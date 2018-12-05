@@ -1,10 +1,4 @@
-# ConsoleApplication3
-This is my readMe
-Alphabet
-Bravo
-Charlie
-
-Test subscribe
+# ConsoleApplication2
 
 ## Build Status
 [![Build Status](https://search.visualstudio.com/Demo%20GitHub%20Integration/_apis/build/status/Demo%20GitHub%20Integration-.NET%20Desktop-CI)](https://search.visualstudio.com/Demo%20GitHub%20Integration/_build/latest?definitionId=23)

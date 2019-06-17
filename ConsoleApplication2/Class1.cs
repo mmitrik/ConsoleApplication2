@@ -12,7 +12,7 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("Hello World!");
             
-            boolean a;
+            bool a;
             if ( a != true ){
                Console.WriteLine("True");
             }

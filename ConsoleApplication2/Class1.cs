@@ -15,7 +15,7 @@ namespace ConsoleApplication2
             bool a = true;
             bool b = false;
             if ( a != true ){
-                Console.WriteLine("False");
+                Console.WriteLine("False {0} {1}", a);
             }
             
             if (b != false ){

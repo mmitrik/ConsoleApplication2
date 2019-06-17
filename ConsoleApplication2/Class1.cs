@@ -8,5 +8,9 @@ namespace ConsoleApplication2
 {
     class Class1
     {
+        bool a;
+        if ( a != true ){
+            //do stuff
+        }
     }
 }

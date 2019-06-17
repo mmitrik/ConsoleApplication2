@@ -13,8 +13,13 @@ namespace ConsoleApplication2
             Console.WriteLine("Hello World!");
             
             bool a = true;
+            bool b = false;
             if ( a != true ){
-               Console.WriteLine("False");
+                Console.WriteLine("False");
+            }
+            
+            if (b != false ){
+                Console.WriteLine("True");
             }
         }
     }

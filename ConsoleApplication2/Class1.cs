@@ -8,9 +8,14 @@ namespace ConsoleApplication2
 {
     class Class1
     {
-        bool a;
-        if ( a != true ){
-            //do stuff
+        static void Main() 
+        {
+            Console.WriteLine("Hello World!");
+            
+            boolean a;
+            if ( a != true ){
+               Console.WriteLine("True");
+            }
         }
     }
 }

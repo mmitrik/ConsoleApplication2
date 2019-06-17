@@ -12,9 +12,9 @@ namespace ConsoleApplication2
         {
             Console.WriteLine("Hello World!");
             
-            bool a;
+            bool a = true;
             if ( a != true ){
-               Console.WriteLine("True");
+               Console.WriteLine("False");
             }
         }
     }
